@@ -4,6 +4,7 @@
   "main": "index.ts",
   "license": "MIT",
   "scripts": {
+    "test": "jest",
     "lint": "eslint \"./**/*.{ts,tsx}\""
   },
   "dependencies": {
@@ -11,6 +12,8 @@
     "@alura/utils": "*"
   },
   "devDependencies": {
-    "@alura/eslint-commons": "*"
+    "@alura/eslint-commons": "*",
+    "@alura/test-commons": "*",
+    "@alura/tsconfig-commons": "*"
   }
 }
