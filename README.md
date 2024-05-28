@@ -77,7 +77,7 @@
 
     <br>
 
-   No package json:
+   No package json:<br><br>
    <img width="247" alt="image" src="https://github.com/EnzowMb/NextJS-Arquitetura-Monorepo/assets/89809584/a5d50759-e3e7-4933-8c71-1ff31f20484d">
 
     <img width="245" alt="image" src="https://github.com/EnzowMb/NextJS-Arquitetura-Monorepo/assets/89809584/8eace13b-c9cb-4f4d-a8d6-1b0a267a1b2f">
