@@ -70,10 +70,14 @@
    Como colocar lint em um workspace:
 
    <img width="124" alt="image" src="https://github.com/EnzowMb/NextJS-Arquitetura-Monorepo/assets/89809584/7af2a065-4de2-4cd3-859d-f5f0ae7bf290">
+   
    ![image](https://github.com/EnzowMb/NextJS-Arquitetura-Monorepo/assets/89809584/a457fb61-e063-43d1-b63e-88875d09010e)
+   
    ![image](https://github.com/EnzowMb/NextJS-Arquitetura-Monorepo/assets/89809584/e7c76c12-7797-40e9-b5d3-a58450bef028)
 
-    No package json:
+    <br>
+
+   No package json:
    <img width="247" alt="image" src="https://github.com/EnzowMb/NextJS-Arquitetura-Monorepo/assets/89809584/a5d50759-e3e7-4933-8c71-1ff31f20484d">
 
     <img width="245" alt="image" src="https://github.com/EnzowMb/NextJS-Arquitetura-Monorepo/assets/89809584/8eace13b-c9cb-4f4d-a8d6-1b0a267a1b2f">
