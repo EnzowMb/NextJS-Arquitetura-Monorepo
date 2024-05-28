@@ -82,5 +82,9 @@
 
     <img width="245" alt="image" src="https://github.com/EnzowMb/NextJS-Arquitetura-Monorepo/assets/89809584/8eace13b-c9cb-4f4d-a8d6-1b0a267a1b2f">
 
-    
+## CODEOWNERS
+
+Em projetos grandes que utilizam mono-repos, é recomendado deixar uma pessoa da equipe responsável por realizar qualquer ação quando o código mudar. Por exemplo, ao resolver um pull request é muito importante que seja feito um code review, e isso deve ficar a cargo de uma pessoa desenvolvedora.
+
+![image](https://github.com/EnzowMb/NextJS-Arquitetura-Monorepo/assets/89809584/e3b4384e-98ce-4402-a706-86b071d796a2)
 
